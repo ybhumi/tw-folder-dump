@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../projects/Spotify"
+		},
+		{
+			"name": "CrossstoneWebApp",
+			"path": "../MVC/WebApp/CrossstoneWebApp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CrossstoneWebApp"
+	}
+}
